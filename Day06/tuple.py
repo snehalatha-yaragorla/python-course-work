@@ -1,0 +1,10 @@
+a = (10, 20, 30, 40, 50)
+print(a)
+print(type(a))
+print(a[0])
+print(a[2])
+print(a[1:4])
+print(a[:3])
+a = (10, 20, 10, 30, 10)
+
+print(a.count(10))
